@@ -24,7 +24,7 @@ const age = 35; //whole numbers are integers
 //conole.log(`Hello ${fullName} nice to meet you!!`);
 
 //npm i readline-sync, Installs prompt input for node (Terminal)
-//const readline = require("readline-sync")
+const readline = require("readline-sync")
 
 //let userName = readline.question("What is your name? ");
 // console.log(`Hello ${userName}`);
